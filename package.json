@@ -1,12 +1,12 @@
 {
-  "name": "@mdbootstrap/react-dropdown-button",
+  "name": "react-dropdown-button",
   "version": "1.0.0",
   "description": "Responsive React Dropdown Button built with Bootstrap 5. Dropdown can be created with the use of a button or link elements.",
   "private": false,
-  "homepage": "https://mdbootstrap.com/docs/react/extended/dropdown-button",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/react-dropdown-button.git"
+    "url": ""
   },
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
